@@ -1,0 +1,37 @@
+[33mcommit c2716d36b38df708792704cf888d0d5d9c5901f8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Fernando <ericramirez.2198@gmail.com>
+Date:   Wed Aug 26 16:19:45 2020 +0200
+
+    subiendo carpeta python a git
+
+ .idea/.gitignore                               |   3 [32m+[m
+ .idea/PYTHON.iml                               |   8 [32m+[m
+ .idea/inspectionProfiles/profiles_settings.xml |   6 [32m+[m
+ .idea/misc.xml                                 |   4 [32m+[m
+ .idea/modules.xml                              |   8 [32m+[m
+ .vscode/settings.json                          |   3 [32m+[m
+ BBDD4.PY                                       |  21 [32m+++[m
+ __pycache__/tkinter.cpython-38.pyc             | Bin [31m0[m -> [32m570[m bytes
+ abrirFile.py                                   |  22 [32m+++[m
+ bbdd.py                                        |  31 [32m++++[m
+ bbdd2.py                                       |  31 [32m++++[m
+ calc.py                                        | 136 [32m+++++++++++++++++[m
+ check.py                                       |  39 [32m+++++[m
+ decoradores.py                                 |  37 [32m+++++[m
+ docTest.py                                     |  12 [32m++[m
+ documentacion.py                               |  15 [32m++[m
+ expresiones_regulareesII.py                    |  15 [32m++[m
+ expresiones_regulares.py                       |  76 [32m++++++++++[m
+ filter.py                                      |  45 [32m++++++[m
+ funcion_lambda.py                              |  17 [32m+++[m
+ gui.py                                         |  15 [32m++[m
+ gui_II.py                                      |  51 [32m+++++++[m
+ map.py                                         |  44 [32m++++++[m
+ menu.py                                        |  60 [32m++++++++[m
+ pratica_guiada.py                              | 201 [32m+++++++++++++++++++++++++[m
+ primeraBase                                    | Bin [31m0[m -> [32m8192[m bytes
+ setup.py                                       |  15 [32m++[m
+ tiempo.py                                      |  39 [32m+++++[m
+ tkinter.py                                     |  24 [32m+++[m
+ tkinter_btn.py                                 |  28 [32m++++[m
+ 30 files changed, 1006 insertions(+)
