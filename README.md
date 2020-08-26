@@ -1,3 +1,3 @@
 # python
 
-solo 
+curso introductorio de pytho
